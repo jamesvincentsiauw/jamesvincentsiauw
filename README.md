@@ -1,12 +1,12 @@
 # Vincent Siauw
 
-Backend engineer in Jakarta. I write most of my services in Go and Python, and I take on the Next.js side when a product needs one.
+Software engineer in Jakarta, working across the backend, the frontend and the LLM parts of a product. Most of my services are written in Go and Python, with Next.js on the frontend.
 
-I work at Jobkred on an AI workflow platform built with FastAPI and Next.js. Before that I built event-driven microservices with Go and Kafka at Tokopedia, and scraping infrastructure with Python and Django on GCP at Offerland. I studied Informatics Engineering at Institut Teknologi Bandung.
+Since October 2024 I've been at Jobkred, a Singapore-based HR tech company, building an LLM workflow platform: a ReactFlow canvas where users chain AI agents into scheduled workflows, backed by FastAPI. Before that I spent four years at Offerland Technologies, first as a freelancer and then full time, building scraping infrastructure in Python and Django on GCP that collects over a million data points a day from more than 20 e-commerce platforms. While freelancing for Offerland, I also spent a few months at Tokopedia on a real-time seller analytics platform built with Go, Kafka and Redis.
 
-My day-to-day work lives in company repositories, so this profile holds side projects.
+I studied Informatics Engineering at Institut Teknologi Bandung. My day-to-day work lives in company repositories, so this profile holds side projects.
 
-Tools I reach for most: Go, Python, TypeScript, Kafka, RabbitMQ, PostgreSQL, Docker, GCP.
+Tools I reach for most: Go, Python, TypeScript, React, PostgreSQL, Redis, Kafka, RabbitMQ, Docker, GCP, OpenAI API.
 
 ## Projects
 
@@ -18,4 +18,4 @@ Tools I reach for most: Go, Python, TypeScript, Kafka, RabbitMQ, PostgreSQL, Doc
 | [etl-pipeline](https://github.com/jamesvincentsiauw/etl-pipeline) | Small Python ETL pipeline configured in YAML that loads CSV data into SQLite. |
 | [tampered-image-detector](https://github.com/jamesvincentsiauw/tampered-image-detector) | Flags edited photos using Error Level Analysis and a CNN, served through a Flask API. |
 
-Portfolio: [jamesvincentsiauw.vercel.app](https://jamesvincentsiauw.vercel.app)
+[Portfolio](https://jamesvincentsiauw.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vincent-siauw)
