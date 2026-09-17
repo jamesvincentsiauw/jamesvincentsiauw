@@ -12,6 +12,7 @@ Tools I reach for most: Go, Python, TypeScript, React, PostgreSQL, Redis, Kafka,
 
 | Repository | What it does |
 | --- | --- |
+| [go-llm-gateway](https://github.com/jamesvincentsiauw/go-llm-gateway) | OpenAI-compatible LLM gateway in Go. When a provider drops in the middle of a streamed answer, the next one continues from the last word the client received. Also handles token quotas in Redis and per-provider circuit breakers. |
 | [go-rabbitmq-retry](https://github.com/jamesvincentsiauw/go-rabbitmq-retry) | RabbitMQ worker in Go. Failed messages come back after a delay that grows with each attempt, and the ones that keep failing are parked with the reason attached. CI runs the tests against a real broker. |
 | [web](https://github.com/jamesvincentsiauw/web) | The code behind my portfolio site, with a Payload CMS admin in the same Next.js app. |
 | [scraping_insight](https://github.com/jamesvincentsiauw/scraping_insight) | Compares free-tier scraping APIs on success rate, latency and credit cost, with a dashboard for the results. |
