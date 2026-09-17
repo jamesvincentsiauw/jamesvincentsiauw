@@ -2,7 +2,7 @@
 
 Software engineer in Jakarta, working across the backend, the frontend and the LLM parts of a product. Most of my services are written in Go and Python, with Next.js on the frontend.
 
-Since October 2024 I've been at Jobkred, a Singapore-based HR tech company, building an LLM workflow platform: a ReactFlow canvas where users chain AI agents into scheduled workflows, backed by FastAPI. Before that I spent four years at Offerland Technologies, first as a freelancer and then full time, building scraping infrastructure in Python and Django on GCP that collects over a million data points a day from more than 20 e-commerce platforms. While freelancing for Offerland, I also spent a few months at Tokopedia on a real-time seller analytics platform built with Go, Kafka and Redis.
+I work at Jobkred, a Singapore-based HR tech company, where I build an LLM workflow platform: a ReactFlow canvas where users chain AI agents into scheduled workflows, backed by FastAPI. Before that I spent four years at Offerland Technologies, first as a freelancer and then full time, building scraping infrastructure in Python and Django on GCP that collects over a million data points a day from more than 20 e-commerce platforms. While freelancing for Offerland, I also spent a few months at Tokopedia on a real-time seller analytics platform built with Go, Kafka and Redis.
 
 I studied Informatics Engineering at Institut Teknologi Bandung. My day-to-day work lives in company repositories, so this profile holds side projects.
 
